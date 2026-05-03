@@ -4,3 +4,5 @@ https://drive.google.com/drive/folders/1BA3dGrZUg5TRBOfndssRdNskS2CBfLOW?usp=sha
 
 
 ## DAY-4 LAB RECORDING (Load Balancer)
+
+https://drive.google.com/drive/folders/1BA3dGrZUg5TRBOfndssRdNskS2CBfLOW?usp=sharing
